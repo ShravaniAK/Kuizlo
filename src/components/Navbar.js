@@ -1,5 +1,7 @@
 import React from 'react';
-import './navbar.css'
+// import Login from './Login';
+import './navbar.css';
+import {Link} from "react-router-dom"
 
 export const Navbar = () => {
   return (
@@ -19,9 +21,9 @@ export const Navbar = () => {
     </ul>
 </div>
 <div className="buttons">
-    <button className="btnL">
-Login
-    </button>
+    <Link to="/Login" className="btnL">
+     Login
+    </Link>
     <button className="btnJ">
         Join
         </button>
