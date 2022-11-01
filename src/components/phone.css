@@ -1,0 +1,319 @@
+@media (max-width:1294px) {
+
+
+    
+
+    
+
+    .lamp {
+        margin-left: -25rem;
+        margin-top: 18rem;
+
+        z-index: -1;
+        /* display: none; */
+    }
+
+
+
+
+
+}
+@media (max-width:839px) {
+    .frame {
+        display: none;}
+
+}
+
+@media (max-width:766px) {
+
+    /* .navbar{
+        height: 100vh;
+        z-index: -1;
+        margin-left: 0;
+        border-radius: 0px;
+        width:200px ;
+        display: inline-block;
+    } */
+
+    .btnL {
+        margin-top: -12px;
+        margin-left: 8vw;
+    }
+
+    .btnJ {
+        margin-top: -12px;
+    }
+
+    .lamp {
+        margin-left: -45rem;
+        margin-top: 16rem;
+
+        z-index: -1;
+        /* display: none; */
+    }
+
+    .navbar {
+        height: 6.5rem;
+        /* flex-wrap: nowrap; */
+        /* padding: -50px;
+            margin: 0px; */
+
+    }
+
+    /* .container{
+            height: -500px;
+        } */
+
+}
+
+
+@media (max-width:1113px) and (min-width:766px) {
+
+    .navbar {
+        height: 6.5rem;
+
+
+    }
+
+    .btnL {
+        margin-top: -12px;
+        margin-left: 8vw;
+    }
+
+    .btnJ {
+        margin-top: -12px;
+    }
+
+}
+
+@media (max-width:1319px) and (min-width:1020px) {
+
+    .navbar {
+        flex-wrap: nowrap;
+        /* height: ; */
+    }
+
+    .btnL {
+        margin-top: 15px;
+        margin-left: -150px;
+    }
+
+    .btnJ {
+        margin-top: 15px;
+        margin-left: -20px;
+    }
+
+    .lamp {
+        margin-left: -100px;
+        margin-top: 22rem;
+
+        z-index: -1;
+        /* display: none; */
+    }
+
+
+}
+
+
+
+
+/* @media (max-width:840px) and (min-width:720px){
+    .frame{
+        margin-right: -55px;
+    }
+    
+
+.ul ul{
+    margin-top: -8px;
+    margin-left: -30px;
+    width: 100px;
+    height: 168px;
+}
+
+.lamp{
+    margin-top: 2px;
+}
+
+.logo{
+    margin-left: 4px;
+}
+
+
+.left-down-img{
+    margin-left: -120px;
+    height:20rem ;
+    
+
+
+width:
+    23rem;
+}
+.left-down h2 {
+    margin-left:-140px;
+    top:18rem;
+    margin-top: -20px;
+}
+
+.left-down p{
+    top: 12rem;
+    margin-left:-140px ;
+}
+
+.getstarted{
+    top:15rem;
+    left:11rem;
+    margin-top: -48px;
+    margin-left: -75px;
+}
+
+
+
+
+
+
+
+}
+
+
+ */
+
+
+@media (max-width:521px){
+
+   .search{
+    width: 370px;
+   }
+
+.ul ul{
+    margin-top: -8px;
+    margin-left: -30px;
+    width: 100px;
+    height: 168px;
+}
+
+.lamp{
+    margin-top: 2px;
+}
+
+.logo{
+    margin-left: 4px;
+}
+
+
+.left-down-img{
+    margin-left: -120px;
+    height:20rem ;
+    
+
+
+width:
+    23rem;
+}
+.left-down h2 {
+    margin-left:-140px;
+    top:18rem;
+    margin-top: -20px;
+}
+
+.left-down p{
+    top: 12rem;
+    margin-left:-140px ;
+}
+
+.getstarted{
+    top:15rem;
+    left:11rem;
+    margin-top: -48px;
+    margin-left: -75px;
+}
+
+.search{
+    margin-left: -110px;
+
+}
+
+.btnL {
+    margin-top:-170px;
+    position: absolute;
+    margin-left: -95px;
+    width: 100px;
+    height: 35px;
+}
+
+.btnJ {
+    margin-top:-170px;
+    position: absolute;
+    width: 100px;
+    height: 35px;
+}
+
+
+
+}
+
+
+
+
+
+@media  (max-width:1222px) and (min-width:840px) {
+    .left-down-img {
+       
+        top: 19rem;
+        margin-left: -110px;
+        opacity: 0.7;
+        
+    }
+
+    .frame {
+       
+        top: 500rem;
+        margin-left: -155px;
+        height: 35rem;
+    }
+
+    .left-down h2 {
+        margin-left:-120px;
+        top:18rem;
+    }
+
+    .left-down p{
+        top:16rem;
+        margin-left:-120px ;
+    }
+
+    .getstarted{
+        top:15rem;
+        left:11rem;
+    }
+   
+
+}
+
+
+@media  (max-width:1022px) and (min-width:840px) {
+    .frame{
+        margin-left: -15px;
+    }
+    .left-down-img {
+       
+       height: 27rem;
+       top:22rem;
+       width: 26rem;
+       margin-left: -120px;
+        
+    }
+}
+
+
+
+/* @media (min-width:766px){
+    .mobile-navbar-btn{
+        visibility: none;
+    }
+    .icon-inner, .ionicon, svg {
+        visibility: none;
+    }
+
+} */
+
+

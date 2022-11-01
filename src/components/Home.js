@@ -1,6 +1,7 @@
 import React from 'react'
 import { Navbar } from './Navbar';
 import './home.css'
+import './phone.css'
 
 export const Home = () => {
   return (
@@ -12,7 +13,10 @@ export const Home = () => {
     <div className="left">
 <div className="search">
     <img className='searchL' src="img/search_FILL0_wght400_GRAD0_opsz48 1.png" alt="" />
-    <p>Get connected to an expert now</p>
+
+     {/* changed here  */}
+    <p>  <input type="text" id="search" placeholder="Get connected to an expert now" /></p>
+    {/* <p>Get connected to an expert now</p> */}
 </div>
 
 <div className="left-down">
@@ -20,9 +24,11 @@ export const Home = () => {
     <h2>fastest Q&A</h2>
     <p>platform in the <br />
 world !</p>
-<button className="getstarted">GET STARTED
+
+{/* added anchor tag in button for future adding pages */}
+ <a href='#'> <button className="getstarted">GET STARTED
 <img className='go' src="img/Line 10.png" alt="" />
-</button>
+</button></a>
 </div>
 
     </div>
